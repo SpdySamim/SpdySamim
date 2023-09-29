@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋...I'm Samim</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Samim, from Kolkata.<br><br>- 🔭 I’m a Full-Stack Developer.<br>- 📚 I'm currently studying Information Technology.<br>- ⚡ In my free time I  love play football or watching Sci-fi movies.<br><br>-👩‍💻 More about me:  <br>                   https://my-portfolio-psi-woad.vercel.app/</p>
+<p align="left">I'm from Kolkata.<br><br>- 🔭 I’m a Full-Stack Developer.<br>- 📚 I'm currently studying Information Technology.<br>- ⚡ In my free time I  love play football or watching Sci-fi movies.<br><br>-👩‍💻 More about me:  <br>                   https://my-portfolio-psi-woad.vercel.app/</p>
 
 ###
 
