@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm from Kolkata.<br><br>- 🔭 I’m a Full-Stack Developer.<br>- 📚 I'm currently studying Information Technology.<br>- ⚡ In my free time I  love play football or watching Sci-fi movies.<br><br>-👩‍💻 More about me:  <br>                   https://my-portfolio-psi-woad.vercel.app/</p>
+<p align="left">I'm from Kolkata.<br><br>- 🔭 I’m a Full-Stack Developer.<br>- 📚 I'm currently studying Information Technology.<br>- ⚡ In my free time I  love to play football or watching Sci-fi movies.<br><br>-👩‍💻 More about me:  <br>                   https://my-portfolio-psi-woad.vercel.app/</p>
 
 ###
 <h3 align="left">Get in Touch :</h3>
